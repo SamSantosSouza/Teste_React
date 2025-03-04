@@ -1,7 +1,7 @@
 ## Sobre este projeto
 esse projeto se trata apenas de um teste de como fazer um app em react native sem ser no expo
 
-# Como criar um app react localmente
+## Como criar um app react localmente
 - tenha instalado em sua máquina o app Android studio pois é ele que vamos usar para simular um dispositivo mobile
 - rode no seu terminal: npx create-expo-app@latest
 - Quando o projeto estiver concluído use cd 'nome do projeto' de um code . para abrir o projeto no VScode.
