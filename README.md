@@ -10,4 +10,3 @@ Esse projeto se trata apenas de um teste de como fazer um app em react native se
 
 # Made by
 Samuel dos Santos Souza
-João Pedro Couto
