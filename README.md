@@ -1,5 +1,5 @@
 ## Sobre este projeto
-Esse projeto se trata apenas de um teste de como fazer um app em react native sem ser no expo
+Esse projeto se trata apenas de um teste de como fazer um app em react native localmente 
 
 ## Como criar um app react localmente
 - Tenha instalado em sua máquina o app Android studio pois é ele que vamos usar para simular um dispositivo mobile
